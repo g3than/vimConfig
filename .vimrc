@@ -8,6 +8,7 @@ call vundle#begin()
 call vundle#rc()
 " alternatively, pass a path where Vundle should install plugins
 "call vundle#begin('~/some/path/here')
+"
 " let Vundle manage Vundle, required
 Plugin 'gmarik/Vundle.vim'
 " The following are examples of different formats supported.
